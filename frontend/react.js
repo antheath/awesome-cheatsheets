@@ -11,7 +11,7 @@ npm install --save react-dom   // serves as the entry point of the DOM-related r
 npm install --save prop-types  // runtime type checking for React props and similar objects
 ```
 
-// notes: don't forget the command lines
+// notes: don't forget the command lines.
 
 
 /* *******************************************************************************************
